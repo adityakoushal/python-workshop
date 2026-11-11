@@ -1,0 +1,27 @@
+PVM stands for Python Virtual Machine.
+
+It is an important part of Python that executes Python bytecode.
+How PVM works
+1. We write Python code in a .py file.
+2. Python converts the source code into bytecode.
+3. PVM executes that bytecode.
+4. We get the output.
+Python Source Code (.py)
+
+Bytecode
+Python Virtual Machine (PVM)
+Output
+
+Example
+print("Hello World")
+
+
+
+Output:
+Hello World
+
+
+Exam Definition
+PVM (Python Virtual Machine) is the runtime engine of Python that executes bytecode and produces the output.
+
+Remember: PVM = Python Virtual Machine.
